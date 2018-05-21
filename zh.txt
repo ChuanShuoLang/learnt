@@ -22,7 +22,7 @@
 
 "user_exist"      = "此帐号已经注册";
 "illegal account name"              = "非法的帐号名";
-"input is not validated"            = "请填写完整信息";
+
 
 
 // 首页
