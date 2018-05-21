@@ -1,0 +1,379 @@
+/* Localized versions of Info.plist keys */
+
+
+// 启动页
+"login"           = "登录";
+
+
+// 注册页面
+"signup"          = "注册";
+"mobile"          = "手机";
+"password"        = "密码";
+"name"            = "名字";
+"city"            = "城市";
+
+"enter_mobile"    = "请输入帐号";
+"enter_password"  = "请输入密码";
+"enter_name"      = "请输入名字";
+"enter_city"      = "请输入所在城市";
+"enter_email"      = "请输入邮箱";
+"password_not_correct" = "密码至少6位";
+"username_or_password_not_correct" = "用户名或密码不正确";
+
+"user_exist"      = "此帐号已经注册";
+"illegal account name"              = "非法的帐号名";
+"input is not validated"            = "请填写完整信息";
+
+
+// 首页
+"app_name"        = "Rollup智能";
+"add_device"      = "设备管理";
+"online"          = "在线";
+"offline"         = "离线";
+"device_is_offline" = "设备不在线";
+"user_no_online"  = "目标用户不在线";
+"device_is_busy"  = "设备正忙";
+"request_time_over" = "会话请求超时";
+"network is offline"  = "网络断线";
+"cancel"          = "取消";
+"connect_device"  = "连接设备";
+"connecting"      = "正在连接";
+"device_setting"  = "设备参数";
+"action"          = "设备菜单";
+
+"history"         = "信息记录";
+"clear"           = "清空";
+"Whether to refresh the current device status" = "是否刷新当前设备状态？";
+"Refresh succeeded" = "刷新成功";
+
+// 消息
+"msg_connect_failure" = "连接失败";
+"msg_connect_success" = "连接成功";
+"device_refuse"       = "设备拒绝绑定";
+"bind_device_success" = "绑定设备成功";
+
+
+// 设备参数
+"save"             = "保存";
+"doorbell_setting" = "门铃设置";
+"smart_monitor"    = "智能监控";
+"device_speaker"   = "设备喇叭";
+"sensor_setting"   = "感应设置";
+"push"             = "网络推送";
+"message"          = "留言";
+"sms"              = "发送短信";
+"call"             = "拨打电话";
+"video_call"       = "视频呼叫";
+"on"               = "开";
+"off"              = "关";
+"ring"             = "铃声报警";
+
+
+//添加设备
+"enter_device_id" = "请输入设备号";
+"confirm"         = "确定";
+"cancel"          = "取消";
+"connect_overtime"= "连接超时";
+"add_device_title"= "添加设备";
+"Require 15 digits"                                 = "需要输入15位数字";
+"Dear, binding with 10 pieces devices as maximum."  = "设备已满，请删除后再添加新设备";
+
+"add ihome3"      = "添加 iHome3/iHome3s";
+"add ihome4"      = "添加 iHome4/iHome4R/iHome4S";
+"add ihome8"      = "添加 iHome8";
+"scan"            = "扫一扫";
+"The qr code in the box, can automatically scan" = "将二维码放入框内，即可自动扫描";
+
+// 修改密码
+"change_password" = "修改密码";
+"old_password"    = "原密码";
+"new_passowrd"    = "新密码";
+"confirm_password"= "确认密码";
+"btn_save"        = "保存";
+
+"enter_old_password"  = "请输入老密码?";
+"enter_new_password"  = "请输入新密码?";
+"enter_confirm"       = "请输入确认密码";
+"confirm_not_correct" = "两次密码不一致";
+
+
+// 修改资料
+"account"         = "帐号";
+"name"            = "名字";
+"city"            = "城市";
+
+
+// 意见反馈
+"enter_feedback"  = "请输入反馈意见";
+
+
+// 关于我们
+"check_version"   = "检查更新";
+"please_update"   = "请更新新版本";
+"current_version_is_new"   = "当前版本是最新版本";
+
+
+// 设置页面
+"setting" = "设置";
+"modify_profile" = "修改资料";
+"history_video"  ="历史视频";
+"connected_bell" = "设备管理";
+"feedback"       = "意见反馈";
+"logout"         = "退出登录";
+"sound"          = "提示音设置";
+"about"          = "关于";
+
+"Voice to set"   = "提示音设置";
+"The system prompt" = "系统提示音";
+"Application of prompt" = "应用内提示音";
+
+"connect_error"  = "网络连接异常";
+"success"        = "操作成功";
+"failure"        = "操作失败";
+"login success"  = "登陆成功";
+
+
+//视频通话
+"cancel_video_chat" = "结束通话";
+"screen_shoot"  = "拍照";
+"video_chat"    = "视频通话";
+"waiting"       = "请稍候...";
+"start_record"  = "开始录像";
+"stop_record"    = "结束录像";
+"record_success" = "录像成功，视频已经保存到我的相册";
+
+
+//视频连接
+"mute"          = "麦克关";
+"unmute"        = "麦克开";
+
+
+//远程开电控锁
+"unlock_door_menu"  = "打开门锁";
+"unlock_door_success"  = "开锁成功";
+"unlock_door_fail"  = "开锁失败";
+
+//历史记录
+"check all"         = "全选";
+"not check all"         = "全不选";
+"Copy to the photo album" = "复制到相册";
+"delete"            = "删除";
+"text"              = "消息记录";
+"picture"           = "图片记录";
+
+"message1"          = "消息:";
+"device"            = "设备:";
+"time"              = "时间:";
+"ok2"               = "完成";
+"edit"              = "编辑";
+
+"reminder"          = "提示";
+"Save the photo album" = "保存到相册?";
+"Whether to delete the selected" = "是否删除所选项?";
+"delete all?"       = "全部删除?";
+"into Albums"       = "保存到相册";
+"Delete"            = "删除";
+
+
+//视频呼叫界面
+"someone"          = "访客呼叫";
+"accept"           = "接受通话";
+"Refused"          = "拒绝通话";
+"into"             = "进入";
+"backoff"          = "退出";
+
+//视频通话界面
+"all screen"      = "全屏";
+"end calls"       = "结束通话";
+"intercom"        = "对讲";
+"start Video"     = "开始录像";
+"end Video"       = "结束录像";
+"open door"       = "开门";
+"mute"            = "静音";
+
+"open door?"      = "是否打开门锁？";
+
+//zigBee智能家居模块
+"Back"            = "返回";
+"Into smart home" = "进入智能家居";
+"Smart home"      = "智能家居";
+"Equipment classification" = "设备分类";
+"Regional classification" = "区域分类";
+"Scene classification" = "场景分类";
+"Smart light bulbs"        = "智能灯";
+"switch"                   = "开关";
+"sensor"                   = "传感器";
+"Infrared remote control"  = "红外遥控器";
+"Smart curtains"           = "智能窗帘";
+"Power outlet"             = "插座";
+"Other types"              = "其他类型";
+"Device list"              = "设备列表";
+"carried out"              = "执行";
+"Air conditioning"         = "空调";
+"DVD"                      = "影碟机";
+"TV"                       = "电视机";
+"topBox"                   = "机顶盒";
+"lantern"                  = "投影仪";
+"Fan"                      = "风扇";
+//场景
+"Do you perform the selected scene settings?" = "是否执行所选场景设置?";
+"Current device status:"   = "当前设备状态:";
+"Preset:"                  = "预设置:";
+
+"Refreshing_please_wait"   = "正在刷新，请稍后";
+
+//433
+"Internet_of_Things"       = "物联网";
+"Bundled_list"             = "已绑设备";
+"Home_mode"                = "在家模式";
+"Alarm_linkage"            = "警号联动";
+"Home_mode_On"             = "在家模式:开";
+"Home_mode_Off"            = "关";
+"Stop_the_alarm"           = "停止报警";
+"No data. Please try again after the device is added" = "暂无数据，请在设备端添加之后再次尝试";
+
+"device_name"              = "设备名称";
+"device_ID"                = "设备ID";
+"device_dis"               = "内容";
+"device_time"              = "时间";
+"alarm_record"             = "报警记录";
+
+"Dev_name:_No_alarm_device" = "设备名称: 暂无设备";
+"Device_ID:_No_data"        = "设备ID: 暂无数据";
+"Alarm_duration:_no_data"   = "报警时长: 暂无数据";
+"Alarm_mode:_no_data"       = "报警模式: 暂无数据";
+"Alarm_volume_level:_data_no" = "报警音量等级: 暂无数据";
+"Connected_device"          = "已关联设备:";
+"Alarm_duration"            = "报警时长";
+"Alarm_mode"                = "报警模式";
+"Alarm_volume_level"        = "报警音量等级";
+
+"Siren"                     = "警号";
+"Warning_lights"            = "警灯";
+"Siren+Warning_lights"      = "警号+警灯";
+"Level_one"                 = "等级1";
+"Level_two"                 = "等级2";
+"Level_three"               = "等级3";
+"Level_four"                = "等级4";
+
+"Account contains illegal characters, please confirm the operation" = "账号中含有非法字符，请确认后操作";
+
+//新增
+
+"    Opens is successful in the home model"                   = "打开在家模式成功";
+"Close is successful in the home model"                   = "关闭在家模式成功";
+"Stop the alarm successfully"                = "停止报警成功";
+"Restore the connection"                     = "恢复连接中";
+"Newest picture/video frequency record"      =  "最新图片/视频记录";
+"Automatic login failed"                     = "自动登录失败";
+//最新图片、视频记录
+"The device is not online. Whether to access the local image/video record" = "设备不在线。可以查看本地图片/视频记录";
+"The device is not online and does not support downloading video"          = "设备不在线，不支持下载视频";
+"Bind users"                                 = "用户列表";
+"video"                                      = "视频";
+"There are unfinished download tasks, exit will cancel these tasks, whether to continue?"
+= "有未完成的下载任务，退出将取消这些任务，是否继续?";
+"downloading..."                             = "正在下载...";
+"Downloaded"                                 = "已下载";
+"The video source has been deleted"          = "视频源已删除";
+"Is the file downloaded, is it playing?"     = "文件已下载，是否播放？";
+"Whether to download the video"              = "是否下载视频";
+"The file path has failed. Please delete the video and download it again" = "文件路径发生错误，请重新下载";
+
+//
+"year"                                       = "年";
+"month"                                      = "月";
+"day"                                        = "日";
+
+"Device_id"            = "设备号";
+"Video/pic"        = "视频/图片";
+"Mine"   = "我的";
+"No_picture_record...."    = "暂无图片记录";
+"No_competence"           ="没有权限";
+"No_video"            ="没有视频";
+"Screen_shoot_time"  = "截屏时间";
+"Local_video"         = "本地视频";
+"Start_sound"     = "开启声音";
+"Start_intercom"     = "开启对讲";
+"End_intercom"     = "关闭对讲";
+"Message"      ="消息";
+"Device_type"   = "设备类型";
+"Nodownload"   ="未下载";
+"Picture"   ="图片";
+"min"   ="分钟";
+"record"  ="录像";
+"shebei"  ="设备";
+"reminder" ="提示";
+"confirm" ="确认";
+"request is rejected"="请求被拒绝";
+"gesture setting" = "手势设置";
+"login gesture" = "登录手势";
+"unlock gesture" = "开锁手势";
+"draw gesture"="请绘制手势";
+"draw gesture again"="请再次绘制手势";
+"reset"="重新设置";
+"at least four points,reset!"="至少连接四个点，请重新绘制";
+"draw gesture again the last one"="与上次不一致，请重新绘制";
+"set success"="设置成功";
+"verify gesture password"="验证手势密码";
+"forget gesture password"="忘记手势密码";
+"wrong password,have %d change"="密码错误,还有%d机会";
+"verify success"="验证成功";
+"login info"="登录信息";
+"set gesture password"="请设置手势密码";
+"wrong password"="密码错误";
+"finger password"="指纹密码";
+"doorLockRecord" = "门锁记录";
+"userlock" = "用户:";
+//门锁 记录
+ "str_lock_pw_open"="密码开锁 ";
+ "str_lock_finger_open"="指纹开锁 ";
+ "str_lock_card_open"="感应卡开锁 ";
+ "str_lock_control_open"="遥控开锁 ";
+ "str_lock_remote_open"="远程开锁 ";
+ "str_lock_group_open"="组合开锁 ";
+ "str_lock_key_open"="机械钥匙开锁 ";
+ "str_lock_lspw_open"="临时密码开锁 ";
+ "str_lock_keyandin_open"="机械钥匙或内把手开锁 ";
+ "str_lock_add_finger"="添加指纹 ";
+ "str_lock_add_pw"="添加密码 ";
+ "str_lock_add_card"="添加感应卡 ";
+ "str_lock_add_control"="添加遥控 ";
+ "str_lock_del_finger"="删除指纹 ";
+ "str_lock_del_pw"="删除密码 ";
+ "str_lock_del_card"="删除感应卡 ";
+ "str_lock_del_control"="删除遥控 ";
+ "str_lock_clear_finger"="清空指纹 ";
+ "str_lock_clear_pw"="清空密码 ";
+ "str_lock_clear_card"="清空感应卡 ";
+ "str_lock_clear_remote"="清空遥控 ";
+ "str_lock_power_down"="低压报警 ";
+ "str_lock_force_alarming"="胁迫报警 ";
+ "str_lock_group"="组合开锁";
+
+"forget password"="忘记密码";
+"find password" ="密码已经发送到邮箱中!";
+"noInformation" = "信息与注册时不一致";
+"remote" = "账号异地登录";
+"Refresh" = "刷新";
+"Unconnected" = "(未连接)";
+"query" ="查询中";
+"bindmax" = "绑定已经达到最大数目";
+"Temporary password" = "临时密码";
+"Creat temporary password" = "生成临时密码";
+"Historyrecord" = "历史记录";
+"random generation" = "随机生成";
+"It's the latest picture"="已经是最新图片";
+"It's the latest video"="已经是最新视频";
+"The password is six digits"="密码必须为六位数";
+"The password must be numeric"="密码必须为数字";
+"Name remark" = "名称备注";
+"Effective time" = "有效时长";
+"Effective number"= "有效次数";
+"Please enter the unlocked password" ="请输入开锁密码";
+"Please active time(unit:min)"="请输入时间(单位:分钟)";
+"Please  enter times"="请输入次数";
+"Product time" ="生成时间";
+"Temporary password created" = "临时密码已创建";
+
+"Data format is wrong" = "数据格式有误";
